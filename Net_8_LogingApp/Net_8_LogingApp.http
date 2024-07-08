@@ -1,0 +1,6 @@
+@Net_8_LogingApp_HostAddress = http://localhost:5211
+
+GET {{Net_8_LogingApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
